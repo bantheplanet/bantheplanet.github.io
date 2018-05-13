@@ -7,6 +7,9 @@ zoom: 0.45;
 #dax{text-align: center;
   zoom: 0.85;
 }
+#bob{text-align: center;
+  zoom: 0.85;
+}
 body {background: rgb(33,231,00);
   font-family: "MS ゴシック",sans-serif;
 }
