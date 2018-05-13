@@ -1,14 +1,13 @@
-h1{background: #ffffff;
-  width: 300px;
-  padding: 10px;
-  text-align: center;
-  border: 1px solid #cccccc;
-  margin: 30px auto;
+#earth{text-align: center;
+zoom: 0.45;
 }
-h2{font-size: 30px;
+#numa{text-align: center;
+  zoom: 0.85;
 }
-h3{font-size: 25px;}
-body {background: #008080;
+#dax{text-align: center;
+  zoom: 0.85;
+}
+body {background: rgb(33,231,00);
   font-family: "MS ゴシック",sans-serif;
 }
 li{list-style-type: none;
