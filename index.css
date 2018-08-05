@@ -106,8 +106,8 @@ line-height: 3
 
 a:visited{color: inherit;}
 
-.ham {zoom: 150%;
+.ham {zoom: 40%;
      position: relative;
-     top: 60px;
+     top: 170px;
    text-align: center;}
 }
